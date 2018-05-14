@@ -1,0 +1,10 @@
+Canard,0
+Bad_@ss,10
+Empireo,20
+Moon_Tree,25
+Knights,35
+Guards,40
+Medic_Union,45
+Trifle,50
+Kestrel,80
+Twilight_Brigade,90

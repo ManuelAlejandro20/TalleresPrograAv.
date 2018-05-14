@@ -1,0 +1,46 @@
+Ninjato,Adept_Rogue,80,Bad_@ss
+Eddie,Blade_Brandier,70,Empireo
+Rudolph,Macabre_Dancer,75,Moon_Tree
+Nogmung,Edge_Punisher,60,Knights
+Oimatsu,Flick_Reaper,42,Guards
+IGA,Harvest_Cleric,80,Medic_Union
+Vergilius,Lord_Partizan,44,Trifle
+Midnight-Head,Shadow_Warlock,102,Kestrel
+DOMINATOR,Steam_Gunner,76,Crusade
+Tabi,Tribal_Grappler,150,Canard
+Olive,Twin_Blade,47,Knights
+Heavenly Flower,Harvest_Cleric,20,Medic_Union
+-COOH,Macabre_Dancer,56,Moon_Tree
+Mile,Edge_Punisher,89,Bad_@ss
+Moonlight Dance,Macabre_Dancer,50,Crusade
+Alice,Adept_Rogue,60,Empireo
+Pen Pen,Flick_Reaper,74,Knights
+Barson,Lord_Partizan,102,Knights
+Pale,Edge_Punisher,10,Empireo
+Nuada,Harvest_Cleric,15,Medic_Union
+Tanu,Lord_Partizan,35,Moon_Tree
+Vanguard,Blade_Brandier,74,Guards
+Sky,Steam_Gunner,50,Bad_@ss     
+Ingrid,Lord_Partizan,60,Trifle
+TomCat,Edge_Punisher,80,Guards
+Sagittarius,Blade_Brandier,7,Bad_@ss
+Quasar,Adept_Rogue,5,Guards
+GATES,Macabre_Dancer,14,Moon_Tree
+b1u3,Flick_Reaper,35,Knights   
+Kitty Ladle,Shadow_Warlock,100
+AppleStar,Blade_Brandier,40,Empireo
+yabu,Harvest_Cleric,30,Moon_Tree
+RYOGORO,Steam_Gunner,40,Kestrel
+victor,Harvest_Cleric,20,Medic_Union
+stein,Harvest_Cleric,17,Medic_Union
+Electronic_Frog,Blade_Brandier,60,Empireo
+Kiira,Shadow_Warlock,50,Moon_Tree
+Sapphire,Macabre_Dancer,32,Bad_@ss
+Silabus,Blade_Brandier,150,Canard
+Madame Insane,Adept_Rogue,42,Moon_Tree
+Jade,Macabre_Dancer,95,Kestrel
+Joanna,Blade_Brandier,14,Bad_@ss
+Great Leo,Edge_Punisher,62,Kestrel
+Ayuo,Flick_Reaper,40,Bad_@ss
+JJ,Harvest_Cleric,60,Empireo
+Flamberge,Blade_Brandier,47,Empireo
